@@ -1,0 +1,7 @@
+
+train: ./yoloV7/training/images
+val: ./yoloV7/training/annotations
+
+nc: 1
+
+names:["Car"]
