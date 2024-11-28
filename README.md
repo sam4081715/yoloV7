@@ -33,7 +33,7 @@ This issue pertains to incorrect weight paths. Below is the context for referenc
 2. There are capital letters in your path.
 
 Image showing the problem:
-![problem1](https://hackmd.io/_uploads/rk53zFrmJg.png)
+![problem1](https://github.com/user-attachments/assets/e53a3f53-70f1-46b6-97d7-30c7d2e3c867)
 
 Solving:
 1. Providing the weights path
