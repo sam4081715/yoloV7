@@ -10,7 +10,7 @@
 - [Reference](#Reference)
 
 ## Introduction
-YOLO is a one-stage model for detection and classification. In this experiment, I will use YOLOv7 to detect car license plates.
+YOLO (You Only Look Once) is a popular object detection algorithm that treats detection as a single regression problem, enabling fast and accurate object localization and classification in one pass. It works by dividing an image into a grid, with each grid cell predicting the bounding boxes and class labels for objects within it. YOLO's main advantages include high speed and strong accuracy. It is an end-to-end model, simplifying the training process, and excels at multi-object detection. In this experiment, we use YOLOv7 for implementation.
 
 ## Training
 In this experiment, we aim to use YOLO to detect car license plates. A total of 477 images were used, with 259 images for the training set and 174 images for validation.
