@@ -5,9 +5,10 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Training](#Training)
+- [Testing](#Testing)
+- [Problem Solving](#Problem_Solving)
+- [Reference](#Reference)
 
 ## Introduction
 YOLO is a one-stage model for detection and classification. In this experiment, I will use YOLOv7 to detect car license plates.
