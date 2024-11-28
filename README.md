@@ -26,20 +26,6 @@ training set resource:
 ![00d763761e47f723](https://github.com/user-attachments/assets/52bfbc99-70b7-4a65-aa44-3f75bcc75643)
 ![00e8e5e79255536f](https://github.com/user-attachments/assets/c45f3496-db75-4bff-b6a6-cc25104828fb)
 
-## Problem Solving in the Training Process
-
-#### 1. subprocess.CalledProcessError: Command 'git tag' returned non-zero exit status 128.
-This issue pertains to incorrect weight paths. Below is the context for reference:
-1. The weights path is missing or undefined.
-2. There are capital letters in your path.
-
-Image showing the problem:
-![problem1](https://github.com/user-attachments/assets/e53a3f53-70f1-46b6-97d7-30c7d2e3c867)
-
-Solving:
-1. Providing the weights path
-2. If you have already provided the path but the problem still occurs, try navigating to the directory first. Use cd to change to the folder containing the path, and then try again.
-
 ## Reference
 1.[【圖文教學】YOLOV7 教學 手把手帶你做 訓練自己的物件偵測模型 訓練自己的資料集](https://medium.com/@huchi00057/yolov7-%E6%95%99%E5%AD%B8-%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%B6%E4%BD%A0%E5%81%9A-%E7%94%A8gpu%E8%A8%93%E7%B7%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC%E6%A8%A1%E5%9E%8B-%E8%A8%93%E7%B7%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B3%87%E6%96%99%E9%9B%86-pytorch-%E6%9E%B6%E6%A7%8B-coco%E6%A0%BC%E5%BC%8F%E8%B3%87%E6%96%99%E9%9B%86-d56370ab2035)
 
