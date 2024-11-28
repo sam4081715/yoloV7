@@ -21,11 +21,9 @@ training set resource:
 
 ## Testing with yolov7
 
-![00ceeec7002bace0](https://hackmd.io/_uploads/By7HLFHmJg.jpg)
-![00d763761e47f723](https://hackmd.io/_uploads/Sygv8tHXkl.jpg)
-![00e8e5e79255536f](https://hackmd.io/_uploads/ryAPIKHXJl.jpg)
-
-
+![00ceeec7002bace0](https://github.com/user-attachments/assets/73c1f075-cab0-49ab-bf3a-50f7bc27d21f)
+![00d763761e47f723](https://github.com/user-attachments/assets/52bfbc99-70b7-4a65-aa44-3f75bcc75643)
+![00e8e5e79255536f](https://github.com/user-attachments/assets/c45f3496-db75-4bff-b6a6-cc25104828fb)
 
 ## Problem Solving in the Training Process
 
